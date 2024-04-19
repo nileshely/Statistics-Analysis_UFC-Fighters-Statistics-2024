@@ -1,4 +1,4 @@
-# Statistics-Analysis_UFC-Fighters-Statistics-2024
+# UFC-Fighters-Statistics-2024
 
 Mixed Martial Arts (MMA) is a popular combat sport, and the Ultimate Fighting Championship (UFC) is the premier organization in the MMA world.
 
